@@ -1,0 +1,8 @@
+from langchain_groq import ChatGroq
+from dotenv import load_dotenv
+load_dotenv()
+
+llm = ChatGroq(model="qwen/qwen3-32b", temperature=1.5)
+result = llm.invoke("What is the difference between chatModel and llm??")
+
+print(result)
