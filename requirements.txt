@@ -41,3 +41,8 @@ chromadb
 tiktoken
 faiss-cpu
 wikipedia
+
+youtube-transcript-api
+
+duckduckgo-search 
+langchain_experimental
