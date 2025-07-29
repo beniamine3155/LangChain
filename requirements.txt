@@ -36,3 +36,6 @@ numpy
 scikit-learn
 # Streamlit for ui
 streamlit
+
+chromadb
+tiktoken
