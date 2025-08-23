@@ -46,3 +46,7 @@ youtube-transcript-api
 
 duckduckgo-search 
 langchain_experimental
+
+# For firebase
+google-cloud-firestore
+langchain-google-firestore
